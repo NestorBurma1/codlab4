@@ -1,0 +1,14 @@
+{
+  "weather": [
+    {
+
+      "icon": "01d"
+    }
+  ],
+  "main": {
+    "temp": 31
+
+  },
+
+  "name": "Kharkiv"
+}
